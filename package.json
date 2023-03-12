@@ -1,0 +1,10 @@
+
+{    "scripts": {
+    "build": "purgecss -css css/custom.css --content index.html -o css/reducido.css"
+  },
+
+
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
